@@ -24,6 +24,8 @@ This is a [link](http://www.google.com/) to a good data science tool.
 
 Here is a link to [p8105](https://p8105.com/index.html).
 
+Here is a link to the [about](about.html) page.
+
 
 # New section: include picture
 
