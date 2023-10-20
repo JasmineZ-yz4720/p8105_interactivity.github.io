@@ -10,13 +10,6 @@ output:
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-# Plot on website
-
-```{r plot}
-library(tidyverse)
-plot_df = tibble(x = runif(100), y = 1+2*x+rnorm(100))
-plot_df |> ggplot(aes(x = x, y = y)) + geom_point()
-```
 
 # Link to other website
 
