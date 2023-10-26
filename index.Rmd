@@ -24,3 +24,7 @@ Here is a link to the [about](about.html) page.
 
 There is an image of mancity bar in NY.
 ![](images/mancity.jpeg)
+
+# Other stuff
+
+[plotly](plotly.html) codes
